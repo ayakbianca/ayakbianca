@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me  
+### About Me 🙀 
 - 🔭 Currently exploring **Physics, Data Science, and Artificial Intelligence**
 - 🎯 Passionate about **learning new things**
 - 💡 Always curious about **how the universe works through models, simulations, and intelligent systems**
