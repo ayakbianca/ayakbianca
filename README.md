@@ -7,6 +7,6 @@
 ### About Me 🙀 
 - 🔭 Currently exploring **Physics, Data Science, and Artificial Intelligence**
 - 🎯 Passionate about **learning new things**
-- 💡 Always curious about **how the universe works through models, simulations, and intelligent systems**
+- 💡 Always curious about **how the universe works**
 - 🌱 Currently learning **Mechanics, Relativity, Electronics, and Data Modeling**
-- ✨ Fun fact: I love **Cat and Matcha**
+- ✨ Fun fact: I love **cat and matcha**
