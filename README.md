@@ -1,16 +1,13 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&width=435&lines=👩‍💻+Data+Science;⚛️+Physics+Student;🎨+Illustration)
 
-<!--
-**ayakbianca/ayakbianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Grüß gott! I'm Bianca 👋
+**Physics Student @ Bandung Institute of Technology**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🔭 Currently exploring **Physics, Data Science, and Artificial Intelligence**
+- 🎯 Passionate about **learning new things**
+- 💡 Always curious about **how the universe works through models, simulations, and intelligent systems**
+- 🌱 Currently learning **Mechanics, Relativity, Electronics, and Data Modeling**
+- ✨ Fun fact: I love **Cat and Matcha**
