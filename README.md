@@ -1,5 +1,5 @@
 ### Grüß gott! I'm Bianca 👋
-**Physics Student @ Bandung Institute of Technology**
+**2nd Year Physics Student @ Bandung Institute of Technology**
 
 ---
 
