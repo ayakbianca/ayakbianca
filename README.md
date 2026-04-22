@@ -8,7 +8,7 @@
 - 🎯 Passionate about **learning new things**
 - 💡 Always curious about **how the universe works**
 - 🌱 Currently learning **Mechanics, Relativity, Electronics, and Data Modeling**
-- ✨ Fun fact: I love **cat and matcha**
+- ✨ Fun fact: I love **cat and owl**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&width=435&lines=👩‍💻+Data+Science;⚛️+Physics+Student;🎨+Illustration)
 
